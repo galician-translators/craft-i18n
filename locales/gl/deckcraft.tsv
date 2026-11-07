@@ -334,7 +334,7 @@
 	Match case	Coincidir maiúsculas e minúsculas
 	Maximize content (else ensure fit)	Maximizar contido (se non, asegurar axuste)
 	Measurement units:	Unidades de medida:
-	Media position	Posición do soporte
+	Media position	Posición do contido multimedia
 	Merge Shapes	Combinar formas
 	Merge\nCells	Combinar\ncelas
 	Merge\nShapes	Combinar\nformas
@@ -545,9 +545,9 @@
 	Set as Default Shape	Definir como forma predeterminada
 	Set Text	Definir texto
 	Set Transparent Color	Definir cor transparente
-	Set Up Slide Show	Configurar presentación con diapositivas
-	Set Up Slide Show…	Configurar presentación con diapositivas…
-	Set Up\nSlide Show	Configurar\npresentación
+	Set Up Slide Show	Configurar pase de diapositivas
+	Set Up Slide Show…	Configurar pase de diapositivas…
+	Set Up\nSlide Show	Configurar\npase de diapositivas
 	Set Zoom	Definir zoom
 	Several slides on each page of a PDF	Varias diapositivas en cada páxina dun PDF
 	Shading	Sombreado
@@ -609,7 +609,7 @@
 	Table Style Options	Opcións de estilo de táboa
 	Table Styles	Estilos de táboa
 	Table…	Táboa…
-	Tabs…	Pestanas…
+	Tabs…	Tabulacións…
 	Task Pane	Panel de tarefas
 	Text Box	Caixa de texto
 	Text Box Margins	Marxes da caixa de texto
@@ -661,12 +661,12 @@
 	Width ({abbr}):	Largura ({abbr}):
 	Width: 	Largura: 
 	Window title bar	Barra de título da xanela
-	With	Con
-	With:	Con:
+	With	Por
+	With:	Por:
 	Wrap Text in Shape	Axustar texto na forma
 	Wrap text in shape	Axustar texto na forma
 	Your name (comments):	O seu nome (comentarios):
 	Zoom level	Nivel de zoom
 	Zoom to	Zoom a
 	{label} value	valor de {label}
-	{name} options	opcións de {name}
+	{name} options	Opcións de {name}
