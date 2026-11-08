@@ -56,7 +56,7 @@
 	4-Color Gradient	Degradado de 4 cores
 	5.1 Media	Medios 5.1
 	5.1 Mixdown Type	Tipo de mestura 5.1
-	5.1 panner (drag the puck; double-click: front centre)	Panoramizador 5.1 (arrastra o punto; dobre clic: centro dianteiro)
+	5.1 panner (drag the puck; double-click: front centre)	Panoramizador 5.1 (arrastre o punto; dobre clic: centro dianteiro)
 	50-300mm Zoom	Zoom de 50-300 mm
 	59.94 fps Drop-Frame	59,94 fps con eliminación de fotogramas
 	59.94 fps Non Drop-Frame	59,94 fps sen eliminación de fotogramas
@@ -98,7 +98,7 @@
 	Add Lumetri Color to clip	Engadir Cor Lumetri ao clip
 	Add Marker	Engadir marcador
 	Add Marker (M)	Engadir marcador (M)
-	Add media to your project. Drop files anywhere in the window, or choose a source below.	Engade medios ao teu proxecto. Solta ficheiros en calquera lugar da xanela ou elixe unha orixe abaixo.
+	Add media to your project. Drop files anywhere in the window, or choose a source below.	Engada medios ao seu proxecto. Solte os ficheiros en calquera lugar da xanela ou escolla unha orixe abaixo.
 	Add New Caption Track…	Engadir nova pista de subtítulos…
 	Add Property…	Engadir propiedade…
 	Add Range Marker	Engadir marcador de intervalo
@@ -496,16 +496,16 @@
 	Clear Selected Marker	Limpar marcador seleccionado
 	Clear Transition	Limpar transición
 	Cleared {n} shortcut(s) of {command}	Limpáronse {n} atallo(s) de {command}
-	Click a command's Shortcut cell and press keys to assign it; + adds another shortcut.	Fai clic na cela Atallo dunha orde e preme as teclas para asignalo; + engade outro atallo.
-	Click a key on the keyboard to see its shortcuts	Fai clic nunha tecla do teclado para ver os seus atallos
-	Click in the Program monitor to place mask points (drag for curves); click the first point or press Enter to close	Fai clic no monitor de programa para colocar puntos de máscara (arrastra para curvas); fai clic no primeiro punto ou preme Intro para pechar
-	Click to select all clips to the left in all tracks. Shift-click for a single track.	Fai clic para seleccionar todos os clips á esquerda en todas as pistas. Maiús+clic para unha soa pista.
-	Click to select all clips to the right in all tracks. Shift-click for a single track.	Fai clic para seleccionar todos os clips á dereita en todas as pistas. Maiús+clic para unha soa pista.
-	Click to select, or click in empty space and drag to marquee select. Use Shift, Alt, and Ctrl for other options.	Fai clic para seleccionar, ou fai clic nun espazo baleiro e arrastra para seleccionar cun marco. Usa Maiús, Alt e Ctrl para outras opcións.
-	Click to select, or click in empty space and drag to marquee select. Use Shift, Opt, and Cmd for other options.	Fai clic para seleccionar, ou fai clic nun espazo baleiro e arrastra para seleccionar cun marco. Usa Maiús, Opción e Cmd para outras opcións.
-	Click to split a clip. Shift-click to split all tracks.	Fai clic para dividir un clip. Maiús+clic para dividir todas as pistas.
-	Click to zoom in; Alt-click to zoom out.	Fai clic para ampliar; Alt+clic para reducir.
-	Click to zoom in; Opt-click to zoom out.	Fai clic para ampliar; Opción+clic para reducir.
+	Click a command's Shortcut cell and press keys to assign it; + adds another shortcut.	Faga clic na cela Atallo dunha orde e prema as teclas para asignalo; + engade outro atallo.
+	Click a key on the keyboard to see its shortcuts	Faga clic nunha tecla do teclado para ver os seus atallos
+	Click in the Program monitor to place mask points (drag for curves); click the first point or press Enter to close	Faga clic no monitor de programa para colocar puntos de máscara (arrastre para curvas); faga clic no primeiro punto ou prema Intro para pechar
+	Click to select all clips to the left in all tracks. Shift-click for a single track.	Faga clic para seleccionar todos os clips á esquerda en todas as pistas. Maiús+clic para unha soa pista.
+	Click to select all clips to the right in all tracks. Shift-click for a single track.	Faga clic para seleccionar todos os clips á dereita en todas as pistas. Maiús+clic para unha soa pista.
+	Click to select, or click in empty space and drag to marquee select. Use Shift, Alt, and Ctrl for other options.	Faga clic para seleccionar, ou faga clic nun espazo baleiro e arrastre para seleccionar cun marco. Use Maiús, Alt e Ctrl para outras opcións.
+	Click to select, or click in empty space and drag to marquee select. Use Shift, Opt, and Cmd for other options.	Faga clic para seleccionar, ou faga clic nun espazo baleiro e arrastre para seleccionar cun marco. Use Maiús, Opción e Cmd para outras opcións.
+	Click to split a clip. Shift-click to split all tracks.	Faga clic para dividir un clip. Maiús+clic para dividir todas as pistas.
+	Click to zoom in; Alt-click to zoom out.	Faga clic para ampliar; Alt+clic para reducir.
+	Click to zoom in; Opt-click to zoom out.	Faga clic para ampliar; Opción+clic para reducir.
 	Client	Cliente
 	Clip	Clip
 	Clip Channel Format:	Formato de canles do clip:
@@ -1491,7 +1491,7 @@
 	Mask Only	Só máscara
 	Master Amplitude	Amplitude mestra
 	Master Gain	Ganancia mestra
-	Master volume: use the Audio Track Mixer	Volume mestre: usa o mesturador de pistas de audio
+	Master volume: use the Audio Track Mixer	Volume mestre: use o mesturador de pistas de son
 	Master · {name}	Mestre · {name}
 	Mastering	Masterización
 	Match file properties:	Propiedades de ficheiro que deben coincidir:
@@ -1707,7 +1707,7 @@
 	Night Exterior	Exterior nocturno
 	No background jobs.	Non hai tarefas en segundo plano.
 	No candidates yet — Search a folder or Locate the file.	Aínda non hai candidatos — Busca nun cartafol ou localiza o ficheiro.
-	No captions on this track. Press + to add one at the playhead.	Non hai subtítulos nesta pista. Preme + para engadir un na cabeceira de reprodución.
+	No captions on this track. Press + to add one at the playhead.	Non hai subtítulos nesta pista. Prema + para engadir un na cabeceira de reprodución.
 	no Chinese font is installed on this system; the interface stays in English	non hai ningunha fonte chinesa instalada neste sistema; a interface segue en inglés
 	No contributor data was built into this copy.	Esta copia non inclúe datos de colaboradores.
 	No effects	Sen efectos
@@ -1717,7 +1717,7 @@
 	no GPU adapter: the CPU compositor is used	non hai adaptador de GPU: úsase o compositor de CPU
 	no Japanese font is installed on this system; the interface stays in English	non hai ningunha fonte xaponesa instalada neste sistema; a interface segue en inglés
 	no Korean font is installed on this system; the interface stays in English	non hai ningunha fonte coreana instalada neste sistema; a interface segue en inglés
-	No markers. Press M to add one.	Non hai marcadores. Preme M para engadir un.
+	No markers. Press M to add one.	Non hai marcadores. Prema M para engadir un.
 	No matching captions.	Non coincide ningún subtítulo.
 	No matching text.	Non coincide ningún texto.
 	No model credits were built into this copy.	Esta copia non inclúe créditos de modelos.
@@ -1727,7 +1727,7 @@
 	No saved guide templates.	Non hai modelos de guías gardados.
 	No Scroll	Sen desprazamento
 	No templates match.	Non coincide ningún modelo.
-	No text graphics in this sequence. Add text with the Type tool.	Non hai gráficos de texto nesta secuencia. Engade texto coa ferramenta Texto.
+	No text graphics in this sequence. Add text with the Type tool.	Non hai gráficos de texto nesta secuencia. Engada texto coa ferramenta Texto.
 	Noise & Grain	Ruído e gran
 	Noise (Legacy)	Ruído (heredado)
 	Noise Level	Nivel de ruído
@@ -1819,11 +1819,11 @@
 	Open new tab	Abrir unha nova pestana
 	Open Project…	Abrir proxecto…
 	Open Search	Abrir a busca
-	Open this address in your browser yourself:	Abre este enderezo ti mesmo no teu navegador:
+	Open this address in your browser yourself:	Abra este enderezo vostede mesmo no seu navegador:
 	Opened {url}	Aberto {url}
 	OpenEXR	OpenEXR
 	OpenEXR Sequence	Secuencia OpenEXR
-	Opens in your web browser: {url}	Ábrese no teu navegador web: {url}
+	Opens in your web browser: {url}	Ábrese no seu navegador web: {url}
 	Opens up the shadows	Abre as sombras
 	OpenTimelineIO…	OpenTimelineIO…
 	Optical Flow	Fluxo óptico
@@ -1859,7 +1859,7 @@
 	Paint Surface	Superficie de pintura
 	Pan	Panorámica
 	Pan (Y Axis)	Panorámica (eixe Y)
-	Pan / balance (drag; double-click: centre)	Panorámica / balance (arrastra; dobre clic: centro)
+	Pan / balance (drag; double-click: centre)	Panorámica / balance (arrastre; dobre clic: centro)
 	Panel shortcuts override application shortcuts while that panel has focus	Os atallos de panel substitúen os da aplicación mentres ese panel teña o foco
 	Panel Wipe	Varrido de paneis
 	Panner	Panoramizador
@@ -2094,7 +2094,7 @@
 	Remix Properties…	Propiedades de remestura…
 	Remix Tool	Ferramenta de remestura
 	Remixed to {seconds} s	Remesturado a {seconds} s
-	Remixing music to a target duration is not available yet. Trim the clip and add a crossfade instead.	A remestura de música a unha duración de destino aínda non está dispoñíbel. Recorta o clip e engade un fundido cruzado no seu lugar.
+	Remixing music to a target duration is not available yet. Trim the clip and add a crossfade instead.	A remestura de música a unha duración de destino aínda non está dispoñíbel. Recorte o clip e engada un fundido cruzado no seu lugar.
 	Remove Attributes	Retirar atributos
 	Remove Attributes…	Retirar atributos…
 	Remove Audio from AV Clip	Retirar o audio do clip AV
@@ -2463,7 +2463,7 @@
 	Solid Colors	Cores sólidas
 	Solo	Solo
 	Solo safe	Protección de solo
-	Something went wrong while drawing the window. Your project is still open; save it to be safe.	Algo fallou ao debuxar a xanela. O teu proxecto segue aberto; gárdao por precaución.
+	Something went wrong while drawing the window. Your project is still open; save it to be safe.	Produciuse un erro ao debuxar a xanela. O seu proxecto segue aberto; gárdeo por precaución.
 	Sort Icons	Ordenar iconas
 	Sort Order	Orde de clasificación
 	Source channels the selected audio clips play:	Canles de orixe que reproducen os clips de audio seleccionados:
@@ -2772,7 +2772,7 @@
 	Twirl Center	Centro do remuíño
 	Twirl Radius	Radio do remuíño
 	Twist Smoother	Torsión máis suave
-	Type a shortcut… (Esc cancels)	Preme un atallo… (Esc cancela)
+	Type a shortcut… (Esc cancels)	Escriba un atallo… (Esc cancela)
 	UI Scale	Escala da interface
 	UI:	Interface:
 	Ultra Key	Ultra Key
