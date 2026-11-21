@@ -12,6 +12,7 @@
 # consulted or copied; add entries the same way.
 
 
+
 	(coming soon)	(proximamente)
 	(No neutral color exists for {mode} mode.)	(Non existe ningunha cor neutra para o modo {mode}.)
 	(print to the printer)	(imprimir na impresora)
@@ -78,6 +79,7 @@
 	A file is still being placed; try again when it has finished.	Aínda se está a colocar un ficheiro; inténteo de novo cando remate.
 	A frame supports affine transforms; select its image for perspective transforms	Un marco admite transformacións afíns; seleccione a súa imaxe para transformacións de perspectiva
 	A frame supports affine transforms; select its image to warp it	Un marco admite transformacións afíns; seleccione a súa imaxe para deformala
+	A newer report format is retained. Its details cannot be displayed.	Consérvase un formato de informe máis novo. Non é posíbel amosar os seus detalles.
 	A picked document is no longer a grayscale document of the same size.	Un dos documentos escollidos xa non é un documento en escala de grises do mesmo tamaño.
 	A picked document is no longer open.	Un dos documentos escollidos xa non está aberto.
 	A save to {name} is still running; try again when it finishes	Aínda se está a gardar en {name}; ténteo de novo cando remate
@@ -184,6 +186,8 @@ smartSvg	AI/PDF/EPS contents will be edited as SVG. Saving replaces the embedded
 	Allow Continue	Permitir continuar
 	Allow Non-Linear History	Permitir historial non lineal
 	Allow scripts to connect	Permitir que os scripts se conecten
+	Alpha Percentile	Percentil alfa
+	Alpha Weighted	Ponderado por alfa
 	Alt-click a plane to set the clone source	Prema Alt e faga clic nun plano para definir a orixe de clonación
 	Alt-click to define a source point to clone from	Alt-clic para definir un punto de orixe co que clonar
 	Alt-click went to the desktop, which moves windows with Alt-drag. Set its window-move key to Super, or latch Alt in Window › Modifier Keys.	O Alt-clic foi para o escritorio, que move xanelas con Alt-arrastrar. Defina a súa tecla para mover xanelas como Super, ou bloquee Alt en Xanela › Teclas modificadoras.
@@ -670,6 +674,7 @@ cameraRaw	Color Mixer	Mesturador de cor
 	Color Noise Reduction	Redución de ruído de cor
 	Color Overlay	Superposición de cor
 	Color Overlay…	Superposición de cor…
+	Color Percentile	Percentil de cor
 	Color picker	Selector de cor
 	Color Picker (Background Color)	Selector de cor (cor de fondo)
 	Color Picker (Crop Shield Color)	Selector de cor (cor do escudo de recorte)
@@ -724,6 +729,7 @@ cameraRaw	Color Priority	Prioridade de cor
 	Confirm	Confirmar
 	Confirm or cancel the open action step dialog first	Confirme ou cancele primeiro o diálogo aberto do paso de acción
 	Conform	Conformar
+	Connectivity	Conectividade
 	Consolidate All to Here	Consolidar todo aquí
 	Consolidate All to Tabs	Consolidar todo en pestanas
 	Constant	Constante
@@ -754,6 +760,7 @@ cameraRaw	Contrast	Contraste
 	Control port	Porto de control
 	Control:	Control:
 	Conté Crayon	Lapis Conté
+	Conversion not implemented	Conversión non implementada
 	Convert for Smart Filters	Converter para filtros intelixentes
 	Convert Frames > Video Layers	Converter fotogramas > Capas de vídeo
 	Convert Point Tool	Ferramenta Converter punto
@@ -952,6 +959,7 @@ cameraRaw	Darks	Escuros
 cameraData	Date Taken	Data de captura
 	DateTime Original	Data e hora orixinais
 	Day For Night	Noite americana
+	DDS Import	Importación DDS
 	DDS Options	Opcións DDS
 	De-Interlace…	Desentrelazar…
 	Decontaminate	Descontaminar
@@ -1066,6 +1074,7 @@ cameraRaw	Developing {name}	Revelando {name}
 	Disable Smart Filters	Desactivar filtros intelixentes
 	Disable Symmetry Path	Desactivar trazado de simetría
 	Disabled	Desactivado
+	Disc	Disco
 	Discard Changes	Descartar cambios
 	Discard Layers and Save a Copy	Descartar capas e gardar unha copia
 	Discard the embedded profile (don't color manage)	Descartar o perfil incrustado (non xestionar a cor)
@@ -1163,6 +1172,7 @@ cameraRaw	Developing {name}	Revelando {name}
 	Dust & Scratches…	Po e rabuñaduras…
 	DVCPRO HD 1080/HDV 1080 (1.5)	DVCPRO HD 1080/HDV 1080 (1,5)
 	Dynamic color sliders	Controis desprazábeis de cor dinámicos
+	Each	Cada
 	East asian	Asia oriental
 	East Asian Features	Características de Asia oriental
 	Edge Detection	Detección de bordos
@@ -1406,6 +1416,7 @@ layers	Fill:	Enchemento:
 	Flatten Image	Acoplar imaxe
 	Flip Canvas Horizontal	Voltear o lenzo horizontalmente
 	Flip Canvas Vertical	Voltear o lenzo verticalmente
+	Flip vertically	Voltear verticalmente
 	Flip X	Voltear X
 	Flip X Jitter	Variación de volteo X
 	Flip Y	Voltear Y
@@ -1696,6 +1707,7 @@ cameraRaw	Hue	Ton
 	Import Brushes…	Importar pinceis…
 	Import Brushes… (.abr or image)	Importar pinceis… (.abr ou imaxe)
 	Import Brushes… (.abr)	Importar pinceis… (.abr)
+	Import Conversion Report	Informe de conversión de importación
 	Import Image	Importar imaxe
 	Import Image…	Importar imaxe…
 	Import keyboard shortcuts?	Quere importar os atallos de teclado?
@@ -1706,6 +1718,7 @@ cameraRaw	Hue	Ton
 	Import Shortcuts…	Importar atallos…
 	Import Styles…	Importar estilos…
 	Import Swatches…	Importar mostras…
+	Import-time outcomes. Editing uses native PhotoCraft rules.	Resultados no momento da importación. A edición emprega as regras nativas de PhotoCraft.
 	Imported	Importado
 @plural	Imported {n} brush from {file}|Imported {n} brushes from {file}	Importouse {n} pincel de {file}|Importáronse {n} pinceis de {file}
 @plural	Imported {n} brush from {group}|Imported {n} brushes from {group}	Importouse {n} pincel de {group}|Importáronse {n} pinceis de {group}
@@ -1783,6 +1796,7 @@ cameraRaw	Hue	Ton
 	Invalid guide layout	Deseño de guías non válido
 	Invalid nested file drop	Arrastre aniñado de ficheiro non válido
 	Invalid numeric entry. An integer between {min}% and {max}% is required. Previous value was inserted.	Entrada numérica non válida. Cómpre un número enteiro entre {min}% e {max}%. Inseriuse o valor anterior.
+	Invalid optional data	Datos opcionais non válidos
 	Invalid panel layout; restored the default dock	Deseño de paneis non válido; restabeleceuse o acoplamento predeterminado
 	Invalid {mode} profile	Perfil {mode} non válido
 	Inverse	Inverter
@@ -1859,6 +1873,7 @@ fontWeight	Italic	Cursiva
 	Layer from Background…	Capa a partir do fondo…
 	Layer Knocks Out Drop Shadow	A capa cobre a sombra proxectada
 	Layer Mask	Máscara de capa
+	Layer mask	Máscara de capa
 	layer mask	máscara de capa
 	Layer Mask Display Options…	Opcións de visualización da máscara de capa…
 	Layer Mask Hides Effects	A máscara de capa oculta os efectos
@@ -1964,6 +1979,7 @@ cameraRaw	Load settings from a Camera Raw .xmp file	Cargar axustes desde un fich
 	Load Settings…	Cargar axustes…
 cameraRaw	Load Settings…	Cargar axustes…
 	Load the brush after each stroke	Cargar o pincel despois de cada trazo
+	Load transparency as alpha channel	Cargar transparencia como canle alfa
 	Loaded Camera Raw settings from {file}	Cargáronse os axustes de Camera Raw desde {file}
 	Loaded Camera Raw settings from {file} ({n} not supported)	Cargáronse os axustes de Camera Raw desde {file} ({n} non admitidos)
 	Loaded contours from {file}	Cargáronse contornos desde {file}
@@ -2121,6 +2137,7 @@ cameraRaw	Midtones	Medios tons
 	Minimum Diameter	Diámetro mínimo
 	Minimum Roundness	Redondez mínima
 	Minimum…	Mínimo…
+	Mipmaps as separate layers	Mapas MIP como capas separadas
 	Missing delete command	Falta a orde de eliminación
 	Missing glyph protection	Protección de glifos que faltan
 	Missing Profiles: Ask When Opening	Perfiles que faltan: preguntar ao abrir
@@ -2174,9 +2191,15 @@ cameraData	Model	Modelo
 	Multiple Flames Various Length	Varias chamas de distinta lonxitude
 	My Brushes	Os meus pinceis
 	name	nome
+	Native approximation	Aproximación nativa
+	Native capability limit	Límite de capacidade nativa
+	Native equivalent	Equivalente nativo
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Arrastrar e soltar ficheiros de forma nativa aínda non é compatíbel con Wayland. Use Ficheiro › Abrir, ou copie a imaxe no xestor de ficheiros e péguea con {paste}.
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run PhotoCraft under XWayland with `WAYLAND_DISPLAY= photocraft`.	Arrastrar e soltar ficheiros de forma nativa aínda non é compatíbel con Wayland. Use Ficheiro › Abrir ou execute PhotoCraft baixo XWayland con `WAYLAND_DISPLAY= photocraft`.
 	Native file drag-and-drop is unavailable	Arrastrar e soltar ficheiros de forma nativa non está dispoñíbel
+	Native layer {id} (removed; historical reference)	Capa nativa {id} (eliminada; referencia histórica)
+	Native layer: {name}	Capa nativa: {name}
+	Native rules	Regras nativas
 	Nearest	Máis próximo
 	Nearest Neighbor	Veciño máis próximo
 	Nearest neighbor	Veciño máis próximo
@@ -2248,7 +2271,9 @@ cameraData	Model	Modelo
 layerLabel	No Color	Sen cor
 	No Color Management	Sen xestión de cor
 	No contributor data was built into this copy.	Esta copia non inclúe datos de colaboradores.
+	No conversion report was recorded.	Non se rexistrou ningún informe de conversión.
 	No custom shape "{name}": pick one in the options bar or Window › Shapes	Non hai ningunha forma personalizada «{name}»: escolla unha na barra de opcións ou en Xanela › Formas
+	No entries on this page.	Non hai entradas nesta páxina.
 	No favorite fonts yet: click the star beside a font to add it.	Aínda non hai tipos de letra favoritos: prema na estrela canda un tipo de letra para engadilo.
 	No fonts match these filters.	Ningún tipo de letra coincide con estes filtros.
 	No Image	Ningunha imaxe
@@ -2286,6 +2311,7 @@ layerLabel	No Color	Sen cor
 	Noise Reduction	Redución de ruído
 cameraRaw	Noise Reduction	Redución de ruído
 	none	ningún
+	Nonessential data skipped	Omitíronse os datos non esenciais
 	Nonlinear History	Historial non lineal
 	Normal tip	Punta normal
 	Not a web color: click for the nearest web color	Non é unha cor web: prema para obter a cor web máis próxima
@@ -2349,11 +2375,13 @@ cameraRaw	Open	Abrir
 	Open As	Abrir como
 	Open as smart object	Abrir como obxecto intelixente
 	Open As…	Abrir como…
+	Open cancelled	Apertura cancelada
 	Open color-less EXR as ACEScg	Abrir EXR sen espazo de cor como ACEScg
 	Open documents as tabs	Abrir documentos como pestanas
 	Open Document…	Abrir documento…
 	Open Download Page	Abrir páxina de descarga
 	Open EXR Parts…	Abrir partes EXR…
+	Open failed: {error}	Erro ao abrir: {error}
 	Open File	Abrir ficheiro
 	Open Folder	Abrir cartafol
 	Open Image	Abrir imaxe
@@ -2573,6 +2601,7 @@ smartSvg	PhotoCraft (internal editor)	PhotoCraft (editor interno)
 	Posterize…	Posterizar…
 	PostScript (72 points/inch)	PostScript (72 puntos/polgada)
 	Precise	Preciso
+	Precision conversion	Conversión de precisión
 	Preferences can't be saved	Non se poden gardar as preferencias
 	Preferences saved	Preferencias gardadas
 	Preferences were reset: {error}	Restabelecéronse as preferencias: {error}
@@ -2831,6 +2860,7 @@ fontWeight	Regular	Normal
 	Resolution: {dpi} pixels/inch	Resolución: {dpi} píxeles/polgada
 	Resolve Missing Fonts	Resolver os tipos de letra que faltan
 	Resolve Missing Fonts…	Resolver os tipos de letra que faltan…
+	Resource unavailable	Recurso non dispoñíbel
 	Response curve	Curva de resposta
 	Restart	Reiniciar
 	Restart Required	Cómpre reiniciar
@@ -2842,6 +2872,8 @@ fontWeight	Regular	Normal
 	Restore Original Edge	Restaurar bordo orixinal
 	Restore original size	Restaurar o tamaño orixinal
 	Restrictive (Web)	Restritivo (web)
+	Retained, not applied	Conservado, non aplicado
+	Retention limit	Límite de retención
 	Reticulation	Reticulación
 	Retry	Tentar de novo
 	Retry GPU	Tentar a GPU de novo
@@ -3275,6 +3307,7 @@ curves	Smooth	Suavizar
 	Source Channel	Canle de orixe
 	Source Files	Ficheiros de orixe
 	Source Invert	Inverter orixe
+	Source item	Elemento de orixe
 	Source Layer	Capa de orixe
 	Source1 Channel	Canle de orixe 1
 	Source1 Invert	Inverter orixe 1
@@ -3598,6 +3631,8 @@ cameraRaw	Tone Histogram	Histograma de tons
 	Units & Rulers…	Unidades e regras…
 	Unix	Unix
 	unknown	descoñecido
+	Unknown outcome	Resultado descoñecido
+	Unknown reason	Razón descoñecida
 	unknown type	tipo descoñecido
 	Unlink	Desligar
 	Unlink Layer Mask	Desligar máscara de capa
@@ -3786,6 +3821,7 @@ navigator	Zoom	Zoom
 	Zoom with trackpad pinch	Zoom con belisco no trackpad
 	{added}, {removed} subtracted	{added}, {removed} restados
 	{file} is not a style library (.asl)	{file} non é unha biblioteca de estilos (.asl)
+	{first}–{last} of {total}	{first}–{last} de {total}
 	{index} of {total}	{index} de {total}
 	{key} to subtract	{key} para restar
 	{key}-click to set the source	{key}-clic para definir a orixe
@@ -3797,6 +3833,7 @@ navigator	Zoom	Zoom
 	{message} into “{group}”	{message} en «{group}»
 	{mode} Color · {bits} bit	Cor {mode} · {bits} bits
 	{name} (Photoshop)	{name} (Photoshop)
+	{name} ({width} × {height})	{name} ({width} × {height})
 	{name} can't keep everything in this document	{name} non pode conservar todo o que ten este documento
 	{name} options	Opcións de {name}
 	{name} Properties	Propiedades de {name}
@@ -3808,6 +3845,7 @@ navigator	Zoom	Zoom
 @plural	{n} file could not be loaded: {errors}|{n} files could not be loaded: {errors}	Non foi posíbel cargar {n} ficheiro: {errors}|Non foi posíbel cargar {n} ficheiros: {errors}
 @plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	Eliminouse {n} capa rexistrada por esta composición. Actualice a composición ou limpe o aviso.|Elimináronse {n} capas rexistradas por esta composición. Actualice a composición ou limpe o aviso.
 @plural	{n} layer|{n} layers	{n} capa|{n} capas
+@plural	{n} mip level|{n} mip levels	{n} nivel de mapa MIP|{n} niveis de mapa MIP
 	{n} of {max} sample points	{n} de {max} puntos de mostraxe
 @plural	{n} pixel|{n} pixels	{n} píxel|{n} píxeles
 @plural	{n} plane|{n} planes	{n} plano|{n} planos
