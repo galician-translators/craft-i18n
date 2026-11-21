@@ -11,12 +11,14 @@
 # computing vocabulary. No other product's localisation, string table or translated UI was
 # consulted or copied; add entries the same way.
 
+
 	"{layer}" can't be filled: select a paint layer or a layer's mask	"{layer}" non se pode rechear: seleccione unha capa de pintura ou a máscara dunha capa
 	"{layer}" has no paint yet: the filter changes what you paint on it.	"{layer}" aínda non ten pintura: o filtro cambia o que pinte nela.
 	0 turns autosave off. Copies go to {folder}	0 desactiva o gardado automático. As copias van a {folder}
 	1 effect	1 efecto
 	2D view only	Só vista 2D
 	32 bits (float)	32 bits (flutuante)
+	3D MESH	MALLA 3D
 	3D mesh	Malla 3D
 	3D meshes	Mallas 3D
 	3D texture painting: layers, masks, smart materials, mesh map baking and export.	Pintura de texturas 3D: capas, máscaras, materiais intelixentes, xeración de mapas de malla e exportación.
@@ -126,6 +128,7 @@
 	Brushed lines	Liñas cepilladas
 	BSphere	Esfera delimitadora
 	Built-in (read-only): duplicate it to edit	Integrada (só lectura): duplíquea para editala
+	Built-in mesh	Malla integrada
 	Built-in templates are read-only: duplicate one to edit it	Os modelos integrados son de só lectura: duplique un para editalo
 	Built-in: {mesh}	Integrada: {mesh}
 	By Mesh Name	Por nome de malla
@@ -139,10 +142,13 @@
 	Cavities	Cavidades
 	Cell size (texels at 2K)	Tamaño de cela (téxeles a 2K)
 	Cells	Celas
+	Change them in Texture Set Settings	Cámbieos en Axustes do conxunto de texturas
 	Channel source: uniform value, procedural, image or anchor	Orixe da canle: valor uniforme, procedimental, imaxe ou ancoraxe
 	Check All	Marcar todo
 	Check for Updates...	Comprobar se hai actualizacións...
 	Checker	Damero
+	Choose another mesh file for the project. It is read when you press OK.	Escolla outro ficheiro de malla para o proxecto. Lerase cando prema Aceptar.
+	Choosing or reimporting a mesh recomputes all channels.	Ao escoller ou importar de novo unha malla recalcúlanse todas as canles.
 	Clamp	Limitar
 	Clear mask	Limpar máscara
 	Clear recent projects	Limpar proxectos recentes
@@ -309,6 +315,7 @@
 	Field of view (deg)	Campo de visión (graos)
 	File ID	ID de ficheiro
 	File name without extension; variables insert names	Nome de ficheiro sen extensión; as variables insiren nomes
+	File not found	Non se atopou o ficheiro
 	File type	Tipo de ficheiro
 	Fill layer	Capa de recheo
 	Fill mode	Modo de recheo
@@ -362,6 +369,7 @@
 	Gravity	Gravidade
 	Gray + A	Gris + A
 	Gray 50%	Gris 50%
+	Green channel convention of normal maps: OpenGL (Y+) or DirectX (Y-). Imported and exported normal maps follow it.	Convención da canle verde dos mapas de normais: OpenGL (Y+) ou DirectX (Y-). Os mapas de normais importados e exportados séguena.
 	Ground Plane	Plano do chan
 	Ground Plane Offset	Desprazamento do plano do chan
 	Group layer(s)	Agrupar capa(s)
@@ -406,6 +414,7 @@
 	Import material...	Importar material...
 	Import MaterialX material...	Importar material MaterialX...
 	Import resources...	Importar recursos...
+	Import settings	Axustes de importación
 	Import...	Importar...
 	Imported template "{name}"	Importouse o modelo "{name}"
 	Imported {name}	Importouse {name}
@@ -524,6 +533,7 @@
 	No padding (passthrough)	Sen marxe (paso directo)
 	No Parameters	Sen parámetros
 	No recent projects yet	Aínda non hai proxectos recentes
+	No UV tiles	Sen teselas UV
 	Noise amount	Cantidade de ruído
 	Noise scale	Escala de ruído
 	none	ningún
@@ -577,6 +587,7 @@
 	Paint Skew Correction	Pintar corrección de inclinación
 	Paint with the current tool	Pintar coa ferramenta actual
 	Painted layer pixels {pixels} MB, composited channels {composites} MB, compositing cache {cache} MB	Píxeles de capas pintadas {pixels} MB, canles compostas {composites} MB, caché de composición {cache} MB
+	Painted strokes follow the surface when the new mesh's UVs differ	Os trazos pintados seguen a superficie cando as UV da nova malla difiren
 	Painting is paused while a bake is shown. Cancel the bake or wait for it to finish.	A pintura está en pausa mentres se amosa unha xeración. Cancele a xeración ou agarde a que remate.
 	Pan	Panorámica
 	Parallax occlusion (height channel)	Oclusión de paralaxe (canle de altura)
@@ -609,12 +620,15 @@
 	Pores	Poros
 	Position gradient	Degradado de posición
 	Position jitter	Variación de posición
+	Preserve stroke positions on mesh	Conservar as posicións dos trazos na malla
 	Press a key...	Prema unha tecla...
 	Procedurals	Procedimentais
 	Project	Proxecto
+	Project configuration	Configuración do proxecto
 	Project Configuration...	Configuración do proxecto...
 	Project Mesh (LP)	Malla de proxecto (LP)
 	Project opened	Proxecto aberto
+	PROJECT SETTINGS	AXUSTES DO PROXECTO
 	Project template	Modelo de proxecto
 	Projection	Proxección
 	Projects and meshes	Proxectos e mallas
@@ -626,6 +640,7 @@
 	Radius (texels at 2K)	Radio (téxeles a 2K)
 	Raw curvature	Curvatura en bruto
 	Re-cook	Recalcular
+	Read the mesh file again, keeping the layers and painted strokes	Ler o ficheiro de malla de novo, conservando as capas e os trazos pintados
 	Reads the curvature map as baked: changing the mode or a size turns detail sizes on.	Le o mapa de curvatura tal como se xerou: cambiar o modo ou un tamaño activa os tamaños de detalle.
 	Rebind any menu item, tool or command	Reasignar calquera elemento de menú, ferramenta ou comando
 	Recent projects	Proxectos recentes
@@ -636,6 +651,7 @@
 	Relative to Low Mesh	Relativo á malla de baixa poligonización
 	Relative to Min/Max	Relativo ao mínimo/máximo
 	Relative to Ray Distances	Relativo ás distancias dos raios
+	Relative to the bounding box diagonal.	Relativo á diagonal da caixa delimitadora.
 	Remove Cage	Eliminar gaiola
 	Remove channel	Eliminar canle
 	Remove effect	Eliminar efecto
@@ -810,9 +826,12 @@
 	The first stroke sets the offset from the source.	O primeiro trazo estabelece o desprazamento respecto á orixe.
 	The GPU couldn't render this scene: {error}	A GPU non puido renderizar esta escena: {error}
 	The image's alpha cuts the decal's shape; faces turned away and surfaces beyond its depth stay clear.	O alfa da imaxe recorta a forma da calcomanía; as caras orientadas cara atrás e as superficies máis alá da súa profundidade fican libres.
+	The mesh file the project is built on. Hover the path to see it in full.	O ficheiro de malla sobre o que se constrúe o proxecto. Pase o cursor sobre a ruta para vela completa.
 	The next click in the 3D view moves the decal there	O seguinte clic na vista 3D move a calcomanía alí
 	The project changed while the dialog was open, so nothing was done	O proxecto cambiou mentres a caixa de diálogo estaba aberta, polo que non se fixo nada
 	The resize worker stopped	O proceso de redimensionamento detívose
+	The UV tiles (UDIMs) of each texture set, shown for reference. Change them in Texture Set Settings.	As teselas UV (UDIM) de cada conxunto de texturas, amosadas para consulta. Cámbieas en Axustes do conxunto de texturas.
+	There is no mesh file to read again. Select one.	Non hai ningún ficheiro de malla para ler de novo. Seleccione un.
 	Thin areas	Áreas finas
 	Tiles	Mosaicos
 	Title bar	Barra de título
@@ -845,6 +864,7 @@
 	UV island fill	Recheo de illas UV
 	UV projection	Proxección UV
 	UV Seams	Costuras UV
+	UV Tile settings (UDIMs)	Axustes de teselas UV (UDIM)
 	UV tile {tile} resolution	Resolución da tesela UV {tile}
 	UV tiles	Teselas UV
 	UV tiles (UDIM)	Teselas UV (UDIM)

@@ -12,6 +12,7 @@
 # consulted or copied; add entries the same way.
 
 
+
 	(All)	(Todos)
 	(no style)	(sen estilo)
 	(no suggestions)	(sen suxestións)
@@ -53,6 +54,7 @@
 	A mail merge field	Un campo de combinación de correspondencia
 	A numbered sequence (figures, tables…)	Unha secuencia numerada (figuras, táboas…)
 	A password is required to open this document.	Requírese un contrasinal para abrir este documento.
+	a shape inside a drawing canvas is placed by the canvas	unha forma dentro dun lenzo de debuxo colócaa o lenzo
 	A table of contents	Unha táboa de contidos
 	A xor B	A xor B
 	A, B, C, …	A, B, C, …
@@ -183,6 +185,7 @@
 	Anyone can open this document. Encrypt it with a password to keep it private.	Calquera persoa pode abrir este documento. Cífreo cun contrasinal para mantelo privado.
 	Anyone who opens the document will need this password.	Calquera persoa que abra o documento necesitará este contrasinal.
 	APA	APA
+	Applies the next time WordCraft starts.	Aplícase a próxima vez que se inicie WordCraft.
 	Apply as you type	Aplicar mentres se escribe
 	Apply Asian line-breaking rules (kinsoku)	Aplicar as regras asiáticas de salto de liña (kinsoku)
 	Apply formatting to:	Aplicar formato a:
@@ -194,6 +197,7 @@ numerals	Arabic	Árabe
 	Arch Up	Arco cara a arriba
 	Argentina	Arxentina
 	Armenian	Armenio
+	Arrange All	Organizar todo
 	Arrange\nAll	Organizar\ntodo
 	Article I.	Artigo I.
 	Artistic Effects	Efectos artísticos
@@ -684,6 +688,7 @@ numerals	Context	Contexto
 	Discard…	Descartar…
 	Discord community	Comunidade de Discord
 	Display for Review	Amosar para revisión
+	Display server:	Servidor de visualización:
 	Display text	Texto que se amosa
 	Distance from text	Distancia dende o texto
 	Distance from text:	Distancia dende o texto:
@@ -795,6 +800,7 @@ numerals	Context	Contexto
 	Elbow Arrow Connector	Conector en cóbado con frecha
 	Elbow Connector	Conector en cóbado
 	Emphasis	Énfase
+	Emphasis Mark	Marca de énfase
 	Empty Matrices	Matrices baleiras
 	Enclose Characters	Encapsular caracteres
 	Enclosure	Recinto
@@ -913,6 +919,7 @@ numerals	Context	Contexto
 	First row of data contains column headers	A primeira fila de datos contén as cabeceiras das columnas
 	Fix Position on Page	Fixar posición na páxina
 	Fixed Column Width	Largura de columna fixa
+	Flat OpenDocument Text (*.fodt)	Texto plano de OpenDocument (*.fodt)
 	Float	Flotante
 	Floor	Chan
 	Folder path	Ruta do cartafol
@@ -1086,6 +1093,7 @@ numerals	Hindi	Hindi
 	IEEE	IEEE
 	If…Then…Else	Se…Entón…Senón
 	If…Then…Else…	Se…Entón…Senón…
+	Ignore Once	Ignorar unha vez
 	Ignore punctuation characters	Ignorar caracteres de puntuación
 	Ignore web and file addresses	Ignorar enderezos web e de ficheiros
 	Ignore white-space characters	Ignorar caracteres de espazo en branco
@@ -1199,6 +1207,7 @@ numerals	Hindi	Hindi
 	Intersection with Limits	Intersección con límites
 	Intersection with Lower Limit	Intersección con límite inferior
 	Intersection with Subscript-Superscript Limits	Intersección con límites en subíndice e superíndice
+	Inverse	Inverso
 	Inverse Cosecant Function	Función cosecante inversa
 	Inverse Cosine Function	Función coseno inverso
 	Inverse Cotangent Function	Función cotanxente inversa
@@ -1224,6 +1233,7 @@ numerals	Hindi	Hindi
 	Issue	Número
 	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	Semella que está a escribir unha carta. Quere un sobre para ela, ou un modelo de carta para comezar?
 	Italy	Italia
+	Item Color	Cor do elemento
 	Its dictionary couldn't be read: {reason}	Non foi posíbel ler o seu dicionario: {reason}
 	Jamaica	Xamaica
 	Join the ArtCraft community on Discord	Únase á comunidade de ArtCraft en Discord
@@ -1250,6 +1260,8 @@ numerals	Hindi	Hindi
 	Label:	Etiqueta:
 	Language data	Datos lingüísticos
 	Language Packs	Paquetes de idioma
+	Language packs	Paquetes de idiomas
+	Language packs aren't available in the browser	Os paquetes de idiomas non están dispoñíbeis no navegador
 	Language packs aren't available in the browser.	Os paquetes de idioma non están dispoñíbeis no navegador.
 	Language packs come from a test source: {source}	Os paquetes de idioma proveñen dunha orixe de proba: {source}
 	Language packs need the font store folder, and there is none on this computer.	Os paquetes de idioma precisan do cartafol de almacenamento de tipos de letra, e non hai ningún neste computador.
@@ -1351,6 +1363,7 @@ template	Letter	Carta
 	Linked style (paragraph and character)	Estilo vinculado (parágrafo e carácter)
 	Links and References	Ligazóns e referencias
 	Link…	Ligazón…
+	Linux display server	Servidor de visualización de Linux
 	List Definition	Definición de lista
 	List entries	Entradas da lista
 	List Paragraph	Parágrafo de lista
@@ -1433,6 +1446,7 @@ template	Letter	Carta
 	Mirror indents	Sangrías simétricas
 	Mirror margins	Marxes simétricas
 	Mirrored	Reflectido
+	Missing Fonts	Fontes que faltan
 	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT OU Apache-2.0. Copyright (c) 2026 Equipo de ArtCraft e colaboradores de WordCraft.
 	MLA	MLA
 	mm	mm
@@ -1543,6 +1557,7 @@ template	Letter	Carta
 	No Markup	Sen marcado
 	No model credits were built into this copy.	Non se incorporaron créditos de modelos nesta copia.
 	No new sources in that file	Non hai novas fontes bibliográficas nese ficheiro
+	No other WordCraft windows are open.	Non hai ningunha outra xanela de WordCraft aberta.
 	No Outline	Sen contorno
 	No Paragraph Space	Sen espazo de parágrafo
 	No printers found. Configure a system printer or export a PDF.	Non se atoparon impresoras. Configure unha impresora do sistema ou exporte un PDF.
@@ -1642,12 +1657,14 @@ template	Letter	Carta
 	Only label and number	Só etiqueta e número
 	Only text properties can be changed.	Só se poden cambiar as propiedades do texto.
 	Only the allowed styles can be applied.	Só se poden aplicar os estilos permitidos.
+	only the desktop app has several windows	só a aplicación de escritorio ten varias xanelas
 	Only web (http, https) and email (mailto) links can be followed	Só se poden seguir ligazóns web (http, https) e de correo electrónico (mailto)
 	Only you can turn on downloading: click the button yourself. Agents can install once it is on.	Só vostede pode activar as descargas: prema vostede mesmo no botón. Os axentes poderán instalar unha vez activadas.
 spacing	Open	Aberto
 	Open a document first	Abra un documento primeiro
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Abrir un ficheiro co propio explorador de WordCraft cando o diálogo de ficheiros do sistema non apareza.
 	OpenDocument Text (*.odt)	Texto OpenDocument (*.odt)
+	OpenDocument Text Template (*.ott)	Modelo de texto de OpenDocument (*.ott)
 	Opening print dialog…	Abrindo o diálogo de impresión…
 	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	Abre ficheiros .docx, .doc, .rtf e .odt e modelos de Word con WordCraft a partir de agora.
 	Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types.	Abre Axustes › Aplicacións predeterminadas, onde escoller WordCraft para .docx e os outros tipos de documento.
@@ -2054,6 +2071,7 @@ spacing	Open	Aberto
 	select a SmartArt graphic first	seleccione un gráfico SmartArt primeiro
 	select a text box first	seleccione unha caixa de texto primeiro
 	select a text box linked to another first	seleccione unha caixa de texto vinculada a outra primeiro
+	Select Canvas Member	Seleccionar membro do lenzo
 	Select Cell	Seleccionar cela
 	Select Column	Seleccionar columna
 	Select Heading and Content	Seleccionar cabeceira e contido
@@ -2106,9 +2124,11 @@ spacing	Open	Aberto
 	Set Numbering Value	Definir valor de numeración
 	Set Paragraph Formatting	Definir formato de parágrafo
 	Set Proofing Language…	Definir idioma de corrección…
+	Set the colors in the Text Pane to use custom colors.	Defina as cores no panel de texto para empregar cores personalizadas.
 	Setting:	Axuste:
 	Shading	Sombreado
 	Shadow, glow and soft edges	Sombra, resplandor e bordos suaves
+	Shape color	Cor da forma
 	Shape Fill	Recheo da forma
 	Shape Format	Formato da forma
 	Shape Outline	Contorno da forma
@@ -2163,6 +2183,7 @@ spacing	Open	Aberto
 	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Amosar/Ocultar ¶ ({key}) amosa os espazos, tabulacións e saltos que se agochan no seu texto.
 	Show\nComments	Amosar\ncomentarios
 	Showing the first {count} items.	Amosando os primeiros {count} elementos.
+	Shown in substitute fonts. Click for details.	Móstrase con fontes substitutas. Prema para ver os detalles.
 	Shows a tree: each item below the item it belongs to.	Amosa unha árbore: cada elemento debaixo do elemento ao que pertence.
 	Shows items around a central idea: the first item is the centre.	Amosa elementos arredor dunha idea central: o primeiro elemento é o centro.
 	Shows items of equal weight as blocks in rows.	Amosa elementos de igual peso como bloques en filas.
@@ -2252,6 +2273,7 @@ spacing	Open	Aberto
 	Spelling &\nGrammar	Ortografía e\ngramática
 	Spelling and grammar are checked in English (United States).	A ortografía e a gramática compróbanse en inglés (Estados Unidos).
 	Spelling and grammar are checked in {language}.	A ortografía e a gramática compróbanse en {language}.
+	Spelling dictionaries and hyphenation for more languages. English is built in.	Dicionarios ortográficos e guionización para máis idiomas. O inglés está integrado.
 	Spelling Suggestions	Suxestións de ortografía
 	Spike	Spike
 	Split Cells	Dividir celas
@@ -2273,6 +2295,8 @@ spacing	Open	Aberto
 	Start-up	Inicio
 	State	Estado
 	Statement   5.50" × 8.50"	Extracto   5,50" × 8,50"
+	Status bar	Barra de estado
+	Status bar count:	Reconto da barra de estado:
 	Still there? I can hear you thinking.	Aínda aí? Podo oírte pensar.
 	Stop Protection	Deter protección
 	Stop Reading	Deter lectura
@@ -2328,6 +2352,7 @@ spacing	Open	Aberto
 	Switch\nModes	Alternar\nmodos
 	Switch\nWindows	Alternar\nxanelas
 	Switzerland	Suíza
+	Synchronous Scrolling	Desprazamento sincrónico
 	Synonyms	Sinónimos
 	Syria	Siria
 numerals	System	Sistema
@@ -2515,6 +2540,7 @@ preview	Title	Título
 	Tue	Mar:
 	Turabian	Turabian
 	Turkish	Turco
+	turn on View Side by Side first	active primeiro Ver un ao carón do outro
 	Turquoise	Turquesa
 	Two	Dous
 	Two-sided printing	Impresión a dúas caras
@@ -2603,6 +2629,7 @@ preview	Title	Título
 	View Alt Text…	Ver texto alternativo…
 	View and edit the document's custom properties.	Ver e editar as propiedades personalizadas do documento.
 	View Gridlines	Ver liñas de grella
+	View Side by Side	Ver un ao carón do outro
 	View State	Estado de visualización
 	View › Focus hides everything but your words. I'll wait outside.	Ver › Foco oculta todo agás as súas palabras. Esperarei fóra.
 	Viewing	Visualización
@@ -2667,6 +2694,7 @@ preview	Title	Título
 	x bar	x con barra
 	Year	Ano
 	Yields	Produce
+	You can also right-click the count in the status bar to change it.	Tamén pode premer co botón secundario no reconto da barra de estado para cambialo.
 	You haven't saved in a while, and AutoSave is off. Save now?	Leva un tempo sen gardar e o gardado automático está desactivado. Quere gardar agora?
 	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Comezou unha lista. Prema Intro dúas veces para rematala, ou Retroceso ao inicio dun elemento para convertelo de novo en texto.
 	Your document is now the most saved document in history.	O seu documento é agora o máis gardado da historia.
@@ -2686,6 +2714,7 @@ preview	Title	Título
 	{count} of {total} pages will print	Imprimiranse {count} de {total} páxinas
 	{count} of {total} recipients will be merged.	Combinaranse {count} de {total} destinatarios.
 	{field}, record {n}	{field}, rexistro {n}
+	{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list.	{font} non está instalada neste computador, polo que o seu texto se amosa en {shown}. Os saltos de liña e o número de páxinas poden diferir do lugar onde se creou o documento. Se ten o ficheiro do tipo de letra, engádao con Engadir tipo de letra… ao final desta lista.
 	{group} settings	Axustes de {group}
 	{key} checks the spelling and grammar of the whole document.	{key} comproba a ortografía e a gramática de todo o documento.
 	{key} counts your words, characters and paragraphs.	{key} conta as súas palabras, caracteres e parágrafos.

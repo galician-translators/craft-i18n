@@ -12,6 +12,7 @@
 # consulted or copied; add entries the same way.
 
 
+
 	  · not fixable here	  · non se pode corrixir aquí
 	 (page {p})	 (páxina {p})
 	 (searching… {s} of {p} pages)	 (buscando… {s} de {p} páxinas)
@@ -480,6 +481,7 @@ certificate	Basic constraints	Restricións básicas
 	Binding:	Encadernación:
 	Bitmap images	Imaxes de mapa de bits
 	Black & White Document	Documento en branco e negro
+	Black and white (binarize)	Branco e negro (binarizar)
 	Black on white	Negro sobre branco
 	Blank page	Páxina en branco
 	Bleed	Sangrado
@@ -511,6 +513,7 @@ certificate	Basic constraints	Restricións básicas
 	Bring to front	Traer á fronte
 	Bring your own model (off by default)	Traia o seu propio modelo (desactivado por omisión)
 	Browser's print dialog	Cadro de diálogo de impresión do navegador
+	Built-in	Integrado
 	Bulleted list	Lista con viñetas
 	Butt	Extremo recto
 	Button	Botón
@@ -747,6 +750,7 @@ certificate	Basic constraints	Restricións básicas
 	Column {n}	Columna {n}
 	Comb of	Peite de
 	Comb of characters	Peite de caracteres
+	Combine engines	Combinar motores
 	Combine files	Combinar ficheiros
 	Combine files in PdfCraft…	Combinar ficheiros en PdfCraft…
 	Combine files…	Combinar ficheiros…
@@ -1281,6 +1285,7 @@ comment menu	Edit	Editar
 key	End	Fin
 	End entity	Entidade final
 	Endpoints	Extremos
+	Engine	Motor
 	ENGINE · STRATEGY	MOTOR · ESTRATEXIA
 	English	Inglés
 	Enhance	Mellorar
@@ -2862,6 +2867,7 @@ certificate	Public key	Chave pública
 	Remove printer marks	Quitar as marcas de impresión
 	Remove redaction marks	Quitar as marcas de censura
 	Remove saved {what}	Quitar {what} dos gardados
+	Remove scan speckle	Eliminar tacas do dixitalizado
 	Remove security	Quitar seguridade
 	Remove security?	Quitar a seguridade?
 	Remove Signature	Quitar asinatura
@@ -3406,6 +3412,7 @@ key	Shift	Maiús
 	Single page	Páxina única
 	Single Page Continuous	Páxina única continua
 	Single word or phrase	Palabra ou frase única
+	Skip	Omitir
 	Skip files that already have text	Omitir os ficheiros que xa teñen texto
 	Skip pages that already have text	Omitir as páxinas que xa teñen texto
 	Skip Rule	Omitir regra
@@ -3497,8 +3504,10 @@ action wizard	Start	Iniciar
 	Stopped: too many files took too long to read.	Detívose: demasiados ficheiros tardaron demasiado en lerse.
 	Store JPEG images as JPEG XL (smaller, can be undone; needs a reader that supports JPEG XL)	Gardar as imaxes JPEG como JPEG XL (máis pequenas, pódese desfacer; require un lector compatible con JPEG XL)
 	Straighten a page that is curved, folded or photographed at an angle, so its lines of text run straight	Endireitar unha páxina que estea curvada, dobrada ou fotografada en ángulo para que as súas liñas de texto queden rectas
+	Straighten pages scanned sideways or upside down	Endereitar páxinas dixitalizadas de lado ou boca abaixo
 	Straighten scanned page	Endireitar a páxina dixitalizada
 	Straighten skewed scans	Endireitar dixitalizacións inclinadas
+	Straighten skewed text lines	Endereitar liñas de texto inclinadas
 	Straighten the page	Endireitar a páxina
 	Straightens skewed text lines before reading	Endireita as liñas de texto inclinadas antes da lectura
 	Strength: {s}	Fortaleza: {s}
@@ -3567,6 +3576,7 @@ certificate	Subject	Titular
 	Take a snapshot	Facer unha instantánea
 	Take this paper size off the list	Retirar este tamaño de papel da lista
 	Task	Tarefa
+	Tesseract	Tesseract
 	Test voice	Probar voz
 	Text (plain)	Texto (sen formato)
 	Text alignment:	Aliñamento do texto:
